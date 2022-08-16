@@ -38,4 +38,4 @@ if operator == "5":
         print("cannot modulus")
     else:
         result = a % b
-        print("The result of ", replace1, "of", a, "and", b, "is", result)
+        print("The result of", a, "and", b, "is", result)
